@@ -1014,7 +1014,7 @@ div.wpcf7-validation-errors, span.wpcf7-not-valid-tip, div.wpcf7-mail-sent-ok {
   color: #ff936d;
 }
 
-input, textarea {
+input, textarea, button[type="submit"] {
   border: 1px solid #b7c0c3;
   background: transparent;
   width: 100%;
