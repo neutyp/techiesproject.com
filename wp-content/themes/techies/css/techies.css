@@ -123,7 +123,7 @@ p, .post, .techies-ss-form-heading {
 
 /* LOGO */
 .logo a {
-  background: url(https://s3-us-west-2.amazonaws.com/techies-images/techies_logo_small_2x.png) center center no-repeat;
+  background: url(/s3-us-west-2/techies-images/techies_logo_small_2x.png) center center no-repeat;
   background-size: contain;
   display: block;
   height: 35px;
@@ -338,7 +338,7 @@ p, .post, .techies-ss-form-heading {
 
 .social {
   transition: opacity 0.5s ease;
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/footer-social-2.png');
+  background-image: url('/d1lhy388c2xgxf/footer-social-2.png');
   background-size: cover;
   background-repeat: no-repeat;
   height: 23px;
@@ -476,24 +476,24 @@ a.social, .site-footer a, a.techie-thumbnail {
 }
 
 .meta .years {
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/techies_interview_icon_years_2x.png');
+  background-image: url('/d1lhy388c2xgxf/techies_interview_icon_years_2x.png');
   background-size: 23px;
 }
 
 .meta .role {
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/techies_interview_icon_position_2x.png');
+  background-image: url('/d1lhy388c2xgxf/techies_interview_icon_position_2x.png');
   background-size: 23px;
   display: flex;
   align-items: center;
 }
 
 .meta .location {
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/techies_interview_icon_location_2x.png');
+  background-image: url('/d1lhy388c2xgxf/techies_interview_icon_location_2x.png');
   background-size: 23px;
 }
 
 .meta .date {
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/techies_interview_icon_date_2x.png');
+  background-image: url('/d1lhy388c2xgxf/techies_interview_icon_date_2x.png');
   background-size: 23px;
 }
 
@@ -667,7 +667,7 @@ a.social, .site-footer a, a.techie-thumbnail {
 
 /*
 .about-social .social {
-  background-image: url('https://d1lhy388c2xgxf.cloudfront.net/footer-social-2.png');
+  background-image: url('/d1lhy388c2xgxf/footer-social-2.png');
   background-repeat: no-repeat;
   height: 33px;
   width: 33px;
