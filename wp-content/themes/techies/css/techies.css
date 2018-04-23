@@ -2,12 +2,12 @@
 
 @import url("//hello.myfonts.net/count/309cc8");
 
-@font-face {font-family: 'FFSuperGroteskWebProMedium';src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_0_0.eot');src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_0_0.eot?#iefix') format('embedded-opentype'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_0_0.woff2') format('woff2'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_0_0.woff') format('woff'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_0_0.ttf') format('truetype');}
+@font-face {font-family: 'FFSuperGroteskWebProMedium';src: url('/s3-us-west-2/techies-images/fonts/309CC8_0_0.eot');src: url('/s3-us-west-2/techies-images/fonts/309CC8_0_0.eot?#iefix') format('embedded-opentype'),url('/s3-us-west-2/techies-images/fonts/309CC8_0_0.woff2') format('woff2'),url('/s3-us-west-2/techies-images/fonts/309CC8_0_0.woff') format('woff'),url('/s3-us-west-2/techies-images/fonts/309CC8_0_0.ttf') format('truetype');}
 
 
-@font-face {font-family: 'FFSuperGroteskWebProRegular';src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_1_0.eot');src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_1_0.eot?#iefix') format('embedded-opentype'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_1_0.woff2') format('woff2'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_1_0.woff') format('woff'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/309CC8_1_0.ttf') format('truetype');}
+@font-face {font-family: 'FFSuperGroteskWebProRegular';src: url('/s3-us-west-2/techies-images/fonts/309CC8_1_0.eot');src: url('/s3-us-west-2/techies-images/fonts/309CC8_1_0.eot?#iefix') format('embedded-opentype'),url('/s3-us-west-2/techies-images/fonts/309CC8_1_0.woff2') format('woff2'),url('/s3-us-west-2/techies-images/fonts/309CC8_1_0.woff') format('woff'),url('/s3-us-west-2/techies-images/fonts/309CC8_1_0.ttf') format('truetype');}
 
-@font-face {font-family: 'TiemposRegular';src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/TiemposTextWeb-Regular.eot');src: url('//s3-us-west-2.amazonaws.com/techies-images/fonts/TiemposTextWeb-Regular.eot?#iefix') format('embedded-opentype'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/TiemposTextWeb-Regular.woff2') format('woff2'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/TiemposTextWeb-Regular.woff') format('woff'),url('//s3-us-west-2.amazonaws.com/techies-images/fonts/TiemposTextWeb-Regular.ttf') format('truetype');}
+@font-face {font-family: 'TiemposRegular';src: url('/s3-us-west-2/techies-images/fonts/TiemposTextWeb-Regular.eot');src: url('/s3-us-west-2/techies-images/fonts/TiemposTextWeb-Regular.eot?#iefix') format('embedded-opentype'),url('/s3-us-west-2/techies-images/fonts/TiemposTextWeb-Regular.woff2') format('woff2'),url('/s3-us-west-2/techies-images/fonts/TiemposTextWeb-Regular.woff') format('woff'),url('/s3-us-west-2/techies-images/fonts/TiemposTextWeb-Regular.ttf') format('truetype');}
 
 body {
   font-size: 14px;
